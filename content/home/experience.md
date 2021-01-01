@@ -17,17 +17,32 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Data Analyst"
+  company = "Capgemini Government Solutions"
+  company_url = ""
+  location = "Washington, DC"
+  date_start = "2020-03-09"
+  date_end = ""
+  description = """
+* Monitors five mailboxes for various issues and logs cases in Access or Excel.
+* Forwards concerns to federal staff and officers for action.
+* Optimized overdue case reports for clarity and brevity leading to closure of 97% of overdue cases.
+* Trains new employees on mailbox duties and case management.
+
 [[experience]]
   title = "Data Analyst"
   company = "XLA"
   company_url = ""
   location = "Washington, DC"
   date_start = "2019-08-01"
-  date_end = ""
+  date_end = "2020-03-06"
   description = """
-* Analyzes complaints submitted through multiple sources, log summaries in Access, and forwards complaints to officers for follow-up action as needed.
-* Researches specific complaints using other internal databases and case logs.
-* Assists in developing and testing new functions to increase productivity and reduce turnaround time.
+* Analyzed complaints submitted through multiple sources, log summaries in Access, and forwards complaints to officers for follow-up action as needed.
+* Researched specific complaints using other internal databases and case logs.
+* Assisted in developing and testing new functions to increase productivity and reduce turnaround time.
+* Enforced new procedure for accurate data entry.
   """
 
 [[experience]]

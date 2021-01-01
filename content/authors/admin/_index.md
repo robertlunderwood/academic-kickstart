@@ -82,6 +82,4 @@ Not a promising start.
 Since then, I’ve bounced around in various fields. In my career, I’ve been a desk attendant, test grader, appraisal and BPO reviewer, customer service representative, and bank teller. I went with being apathetic about politics to a conservative and from being unsaved to a born-again Christian. There have been various tips and tricks that I’ve picked up along the way, some of which I hope to share. Some of those were put to the test as I completed a Master of Science in Analytics from American University.
 
 Now that I am officially a data analyst, I hope to improve my skills to the point where I am a data scientist.  I've come a long way from my humble beginnings, but there is a long way to go.
-
-For those seeking knowledge or more information, there are some things that may interest you. Please check out my blog, [Ranting Robert](https://www.rantingrobert.com).
   
